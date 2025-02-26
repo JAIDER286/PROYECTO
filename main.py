@@ -137,4 +137,4 @@ async def finis(ctx):
 async def emoji(ctx):
     await ctx.send("¡felicitaciones,vuelvalo a intentar con tus amigos!\U0001F44D\U0001F30E")
 
-bot.run("MTMzNDI4MTQ5MDM2Mzg0MjY3MA.Gxg_yh.3QZMFf9yna7ZhLf7F4NXMFsIxAQP8RO7Oxq3eA")
+bot.run("INGRESE SU TOKEN")
